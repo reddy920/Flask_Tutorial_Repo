@@ -1,2 +1,2 @@
 # Flask_Tutorial_Repo
-This is a student flask project repo
+This is a student flask project repository
